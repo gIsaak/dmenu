@@ -25,3 +25,4 @@ See the man page for details.
 ### Patches
 
 - Added Font Awesome icons and support for colored emojis (libxft-bgra)
+- mouse support
