@@ -26,3 +26,8 @@ See the man page for details.
 
 - Added Font Awesome icons and support for colored emojis (libxft-bgra)
 - mouse support
+    - `dmenu-mousesupport-5.0.diff`
+- password
+    - `dmenu-password-5.0.diff`
+- xresources
+    - `dmenu-xresources-4.9.diff`
